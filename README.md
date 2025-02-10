@@ -1,3 +1,3 @@
-# Push_pull_knobs_3D_parts
+# Push-pull knobs (3D parts)
 
 ⚠️ Under construction
